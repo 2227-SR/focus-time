@@ -9,6 +9,7 @@ import AssetExample from './components/AssetExample';
 import { Card } from 'react-native-paper';
 
 export default function App() {
+  console.log("yolo")
   return (
     <View style={styles.container}>
       <Text style={styles.paragraph}>
